@@ -1,1 +1,1 @@
-# CannedSigma.github.io
+# cannedsigma.github.io
